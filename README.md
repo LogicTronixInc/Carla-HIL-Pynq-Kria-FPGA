@@ -1,7 +1,7 @@
 
-# Carla-SIL-Pynq-Kria-FPGA
+# Carla LIVE Streaming and HIL with Kria-PYNQ
 
-Software-in-loop testing of the CARLA ADAS simulator with PYNQ running on a Kria KR260.
+Carla Live Streaming and Hardware-in-loop (open-loop) testing with PYNQ running on a Kria KR260.
 
 ## Overview
 
